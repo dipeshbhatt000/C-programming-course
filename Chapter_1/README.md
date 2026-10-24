@@ -4,7 +4,7 @@
     
     **Following are the Rules for C Programming:**
 
-    ```
+    ```c
     int a;
     int b;
     int dipesh;
@@ -23,7 +23,7 @@
 
     **Rules for Data Types in C Programming:**
 
-    ```
+    ```c
     int a;
     a = 1;
 
@@ -44,13 +44,13 @@
     
 - Syntax:
 
-    ```
+    ```c
     scanf("%d", &i);
     ```
 
 - printf( ) function for integer, float and character:
 
-```
+```c
     printf ("The value of a is: %d\n", a);
     printf ("The value of b is: %f\n", b);
     printf ("The value of c is: %c\n", c);
@@ -59,7 +59,7 @@
 
 **Some Escape Sequence Character:**
 
-```
+```c
 printf ("Hey, I am good. \nNice to meet you.\n"); // \n is used to give a new line.
 
 printf ("Hey, I am good. \tNice to meet you.\n"); // \t is used to give space between the word or line.
