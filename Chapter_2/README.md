@@ -144,8 +144,8 @@ The value of d is 6 // The fractional part is demoted
   Priority            Operators
 
 1st Priority            * / %
-1st Priority             + -
-1st Priority              =
+2st Priority             + -
+3st Priority              =
 
 // Operators of higher priority are evaluated first in absence of parenthesis()
 
